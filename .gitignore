@@ -13,3 +13,4 @@ environment.properties
 *.eml
 */bin/*
 .idea
+recfun/lib_managed/
