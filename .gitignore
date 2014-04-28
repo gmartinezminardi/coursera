@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings/
+target/
+test-output/
+.directory
+*.swp
+*.orig
+*.log
+environment.properties
+*.iml
+*.markdown
+*.eml
+*/bin/*
+.idea
