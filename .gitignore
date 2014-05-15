@@ -14,4 +14,4 @@ environment.properties
 */bin/*
 .idea
 recfun/lib_managed/
-funset/lib_managed/
+funsets/lib_managed/
